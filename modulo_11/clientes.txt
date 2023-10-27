@@ -1,0 +1,3 @@
+cod_cli, nome, endereco
+02, matheus, amapa 32
+03, lucas, amarim 22

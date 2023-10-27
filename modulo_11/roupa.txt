@@ -1,0 +1,2 @@
+Código da roupa, Descrição da roupa, Código do estilista, Código da estação, Ano
+ a2, regata, 02, 12, 2024

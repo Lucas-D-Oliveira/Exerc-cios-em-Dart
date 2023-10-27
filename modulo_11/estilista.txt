@@ -1,0 +1,3 @@
+Código do estilista, Nome do estilista, Salário
+ 01, lucas, 500
+ 02, matheus, 600

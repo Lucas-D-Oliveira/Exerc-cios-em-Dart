@@ -1,0 +1,3 @@
+Código da estação, Nome da estação
+ 11, inverno
+ 12, verao
